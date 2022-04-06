@@ -1,0 +1,132 @@
+{
+  "_version": "2.0.0",
+  "_songName": "La Vida Me Cambio",
+  "_songSubName": "",
+  "_songAuthorName": "Diana Fuentes & Gente de Zona",
+  "_levelAuthorName": "Majorpickle",
+  "_beatsPerMinute": 90,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 35,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "KaleidoscopeEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "_lastEditedBy": "MMA2",
+      "MMA2": {
+        "version": "4.8.2"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRightBoost": {
+              "r": 0.0342690534889698,
+              "g": 0.9179026484489441,
+              "b": 0.9135143160820007
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0,
+              "b": 0.7935843467712402
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 0.9880040287971497,
+              "b": 0.09264159202575684
+            },
+            "_envColorRight": {
+              "r": 0.1248050332069397,
+              "g": 0.033954501152038574,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.13027989864349365,
+              "b": 0.1149333119392395
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.9400291442871094,
+              "b": 0.014606824144721031
+            },
+            "_colorLeft": {
+              "r": 0.9013074040412903,
+              "g": 0.011343960650265217,
+              "b": 0.817871630191803
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRightBoost": {
+              "r": 0.0342690534889698,
+              "g": 0.9179026484489441,
+              "b": 0.9135143160820007
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0,
+              "b": 0.7935843467712402
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 0.9880040287971497,
+              "b": 0.09264159202575684
+            },
+            "_envColorRight": {
+              "r": 0.1248050332069397,
+              "g": 0.033954501152038574,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.13027989864349365,
+              "b": 0.1149333119392395
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.9400291442871094,
+              "b": 0.014606824144721031
+            },
+            "_colorLeft": {
+              "r": 0.9013074040412903,
+              "g": 0.011343960650265217,
+              "b": 0.817871630191803
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
