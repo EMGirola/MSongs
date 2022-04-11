@@ -1,0 +1,67 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Specialist (Never More ver.)",
+  "_songSubName": "",
+  "_songAuthorName": "Shoji Meguro",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 128,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 16.163999557495117,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.7.2"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.4000000059604645,
+          "_customData": {
+            "_editorOffset": 461,
+            "_editorOldOffset": 461,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorLeft": {
+              "r": 0.7519528269767761,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.29074326157569885,
+              "b": 0.6855729222297668
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.6315267086029053,
+              "b": 0
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0,
+              "b": 0.46947717666625977
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

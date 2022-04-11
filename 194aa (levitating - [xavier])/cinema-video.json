@@ -1,0 +1,23 @@
+{
+  "videoID": "TUVcZfQe-Kw",
+  "title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+  "author": "Dua Lipa",
+  "videoFile": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video).mp4",
+  "duration": 230,
+  "offset": -600,
+  "configByMapper": true,
+  "transparency": true,
+  "endVideoAt": 202.7,
+  "screenPosition": {"x": 0, "y": 13, "z": 76},
+  "screenHeight": 26.0,
+  "colorCorrection": {
+    "saturation": 1.2,
+    "exposure": 1.3
+,   "gamma": 0.95
+},
+  "vignette": {
+  "type": "elliptical",
+  "radius": 0.7,
+  "softness": 0.02
+}
+}

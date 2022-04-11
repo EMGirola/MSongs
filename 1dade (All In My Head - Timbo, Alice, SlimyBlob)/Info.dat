@@ -1,0 +1,336 @@
+{
+  "_version": "2.0.0",
+  "_songName": "All In My Head",
+  "_songSubName": "(feat. grandson) [Saint Punk Remix]",
+  "_songAuthorName": "Whethan",
+  "_levelAuthorName": "Timbo, Alice, SlimyBlob",
+  "_beatsPerMinute": 256,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 61.8,
+  "_previewDuration": 16,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DragonsEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "Timbo",
+        "_iconPath": "Timbo.png"
+      },
+      {
+        "_role": "Mapper",
+        "_name": "Alice",
+        "_iconPath": "alice.png"
+      },
+      {
+        "_role": "Lighter",
+        "_name": "SlimyBlob",
+        "_iconPath": "Slimy.png"
+      }
+    ],
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "MMA2": {
+        "version": "4.5.1"
+      },
+      "ChroMapper": {
+        "version": "0.8.454"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 2,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.196,
+              "g": 0.49,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.649,
+              "g": 0.07,
+              "b": 0.024
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.31,
+              "b": 0.725
+            },
+            "_envColorLeftBoost": {
+              "r": 0.298,
+              "g": 0.102,
+              "b": 0.341
+            },
+            "_envColorRightBoost": {
+              "r": 0.01,
+              "g": 0.725,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0.686,
+              "b": 0.725
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 13.5,
+          "_noteJumpStartBeatOffset": 0.3,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.196,
+              "g": 0.49,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.649,
+              "g": 0.07,
+              "b": 0.024
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.31,
+              "b": 0.725
+            },
+            "_envColorLeftBoost": {
+              "r": 0.298,
+              "g": 0.102,
+              "b": 0.341
+            },
+            "_envColorRightBoost": {
+              "r": 0.01,
+              "g": 0.725,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0.686,
+              "b": 0.725
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": -0.6,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.196,
+              "g": 0.49,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.649,
+              "g": 0.07,
+              "b": 0.024
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.31,
+              "b": 0.725
+            },
+            "_envColorLeftBoost": {
+              "r": 0.298,
+              "g": 0.102,
+              "b": 0.341
+            },
+            "_envColorRightBoost": {
+              "r": 0.01,
+              "g": 0.725,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0.686,
+              "b": 0.725
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -1.4,
+          "_customData": {
+            "_difficultyLabel": "Timbo's Aw Shit",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.196,
+              "g": 0.49,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.649,
+              "g": 0.07,
+              "b": 0.024
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.31,
+              "b": 0.725
+            },
+            "_envColorLeftBoost": {
+              "r": 0.298,
+              "g": 0.102,
+              "b": 0.341
+            },
+            "_envColorRightBoost": {
+              "r": 0.01,
+              "g": 0.725,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0.686,
+              "b": 0.725
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -1.5,
+          "_customData": {
+            "_difficultyLabel": "Alice's Call A Doctor",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.196,
+              "g": 0.49,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.649,
+              "g": 0.07,
+              "b": 0.024
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.31,
+              "b": 0.725
+            },
+            "_envColorLeftBoost": {
+              "r": 0.298,
+              "g": 0.102,
+              "b": 0.341
+            },
+            "_envColorRightBoost": {
+              "r": 0.01,
+              "g": 0.725,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0.686,
+              "b": 0.725
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusLightshow.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Slimy's Lights in my head",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.196,
+              "g": 0.49,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.649,
+              "g": 0.07,
+              "b": 0.024
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.31,
+              "b": 0.725
+            },
+            "_envColorLeftBoost": {
+              "r": 0.298,
+              "g": 0.102,
+              "b": 0.341
+            },
+            "_envColorRightBoost": {
+              "r": 0.01,
+              "g": 0.725,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0.686,
+              "b": 0.725
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

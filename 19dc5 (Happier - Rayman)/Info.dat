@@ -1,0 +1,308 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Happier",
+  "_songSubName": "",
+  "_songAuthorName": "Marshmello & Bastille",
+  "_levelAuthorName": "Rayman",
+  "_beatsPerMinute": 100,
+  "_previewStartTime": 45.3,
+  "_previewDuration": 10,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "Happier.png",
+  "_songFilename": "Happier.egg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.391"
+      }
+    },
+    "_contributors": [
+      {
+        "_name": "Rayman9515",
+        "_role": "Mapper & Lighter",
+        "_iconPath": "Rayman_PFP.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "OneSaber",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertOneSaber.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.8,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.569,
+              "g": 0.569,
+              "b": 0.569
+            },
+            "_envColorLeft": {
+              "r": 0.441,
+              "g": 0.441,
+              "b": 0.441
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.939,
+              "b": 0.482
+            },
+            "_obstacleColor": {
+              "r": 0.451,
+              "g": 0.44,
+              "b": 0.398
+            },
+            "_envColorLeftBoost": {
+              "r": 0.673,
+              "g": 0.673,
+              "b": 0.673
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.71,
+              "b": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 0.3,
+          "_customData": {
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.8,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.569,
+              "g": 0.569,
+              "b": 0.569
+            },
+            "_envColorLeft": {
+              "r": 0.441,
+              "g": 0.441,
+              "b": 0.441
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.939,
+              "b": 0.482
+            },
+            "_obstacleColor": {
+              "r": 0.451,
+              "g": 0.44,
+              "b": 0.398
+            },
+            "_envColorLeftBoost": {
+              "r": 0.673,
+              "g": 0.673,
+              "b": 0.673
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.71,
+              "b": 0
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 0.3,
+          "_customData": {
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.8,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.569,
+              "g": 0.569,
+              "b": 0.569
+            },
+            "_envColorLeft": {
+              "r": 0.441,
+              "g": 0.441,
+              "b": 0.441
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.939,
+              "b": 0.482
+            },
+            "_obstacleColor": {
+              "r": 0.451,
+              "g": 0.44,
+              "b": 0.398
+            },
+            "_envColorLeftBoost": {
+              "r": 0.673,
+              "g": 0.673,
+              "b": 0.673
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.71,
+              "b": 0
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.8,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.569,
+              "g": 0.569,
+              "b": 0.569
+            },
+            "_envColorLeft": {
+              "r": 0.441,
+              "g": 0.441,
+              "b": 0.441
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.939,
+              "b": 0.482
+            },
+            "_obstacleColor": {
+              "r": 0.451,
+              "g": 0.44,
+              "b": 0.398
+            },
+            "_envColorLeftBoost": {
+              "r": 0.673,
+              "g": 0.673,
+              "b": 0.673
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.71,
+              "b": 0
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.8,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.569,
+              "g": 0.569,
+              "b": 0.569
+            },
+            "_envColorLeft": {
+              "r": 0.441,
+              "g": 0.441,
+              "b": 0.441
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.939,
+              "b": 0.482
+            },
+            "_obstacleColor": {
+              "r": 0.451,
+              "g": 0.44,
+              "b": 0.398
+            },
+            "_envColorLeftBoost": {
+              "r": 0.673,
+              "g": 0.673,
+              "b": 0.673
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.71,
+              "b": 0
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.1,
+          "_customData": {
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.8,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.569,
+              "g": 0.569,
+              "b": 0.569
+            },
+            "_envColorLeft": {
+              "r": 0.441,
+              "g": 0.441,
+              "b": 0.441
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.939,
+              "b": 0.482
+            },
+            "_obstacleColor": {
+              "r": 0.451,
+              "g": 0.44,
+              "b": 0.398
+            },
+            "_envColorLeftBoost": {
+              "r": 0.673,
+              "g": 0.673,
+              "b": 0.673
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.71,
+              "b": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

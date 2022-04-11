@@ -1,0 +1,69 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Broken & Beautiful",
+  "_songSubName": "(Produced by Marshmello & Steve Mac)",
+  "_songAuthorName": "Kelly Clarkson",
+  "_levelAuthorName": "[xavier]",
+  "_beatsPerMinute": 112,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "OriginsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.8.1"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0.25,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "Cinema"
+            ],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.7633460164070129,
+              "g": 0.02058359608054161,
+              "b": 0.3854054808616638
+            },
+            "_colorRight": {
+              "r": 0.71009361743927,
+              "g": 0.7139365077018738,
+              "b": 0.6604230403900146
+            },
+            "_envColorLeft": {
+              "r": 0.71009361743927,
+              "g": 0.7139365077018738,
+              "b": 0.6604230403900146
+            },
+            "_envColorRight": {
+              "r": 0.22338753938674927,
+              "g": 0.4537181258201599,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

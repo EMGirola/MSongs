@@ -1,0 +1,67 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Hollow Purple (Gojo Satoru Theme)",
+  "_songSubName": "",
+  "_songAuthorName": "Alisa Okahezama",
+  "_levelAuthorName": "Joetastic & [CANA]Dan",
+  "_beatsPerMinute": 130,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 175.158447265625,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DragonsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.7.4"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.800000011920929,
+          "_customData": {
+            "_editorOffset": 101,
+            "_editorOldOffset": 101,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorLeft": {
+              "r": 0.5073227286338806,
+              "g": 0.06327391415834427,
+              "b": 0.6122716069221497
+            },
+            "_envColorRight": {
+              "r": 0,
+              "g": 0.1266087144613266,
+              "b": 0.8390617370605469
+            },
+            "_envColorLeftBoost": {
+              "r": 0.5230212211608887,
+              "g": 0.5814944505691528,
+              "b": 0.7139358520507812
+            },
+            "_envColorRightBoost": {
+              "r": 0,
+              "g": 0.003824100363999605,
+              "b": 0.2838185727596283
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

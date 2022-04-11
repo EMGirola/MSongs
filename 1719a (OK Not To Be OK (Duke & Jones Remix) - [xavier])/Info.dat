@@ -1,0 +1,67 @@
+{
+  "_version": "2.0.0",
+  "_songName": "OK Not To Be OK (Duke & Jones Remix)",
+  "_songSubName": "",
+  "_songAuthorName": "Marshmello & Demi Lovato",
+  "_levelAuthorName": "[xavier]",
+  "_beatsPerMinute": 122,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DragonsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.7.2"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": -0.75,
+          "_customData": {
+            "_editorOffset": -25,
+            "_editorOldOffset": -25,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.7843192219734192,
+              "g": 0,
+              "b": 0.5052007436752319
+            },
+            "_colorRight": {
+              "r": 0.71009361743927,
+              "g": 0.7139365077018738,
+              "b": 0.6604230403900146
+            },
+            "_envColorLeft": {
+              "r": 0.7843192219734192,
+              "g": 0,
+              "b": 0.5052007436752319
+            },
+            "_envColorRight": {
+              "r": 0.71009361743927,
+              "g": 0.7139365077018738,
+              "b": 0.6604230403900146
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

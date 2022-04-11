@@ -1,0 +1,34 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Soundscape",
+  "_songSubName": "",
+  "_songAuthorName": "TRUE",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 186,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 49.1755485534668,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": -18,
+            "_editorOldOffset": -18
+          }
+        }
+      ]
+    }
+  ]
+}

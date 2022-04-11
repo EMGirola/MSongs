@@ -1,0 +1,255 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Tokyo Neo Swing",
+  "_songSubName": "(ft. Lily Mizusaki)",
+  "_songAuthorName": "DYES IWASAKI",
+  "_levelAuthorName": "Nixie.Korten",
+  "_beatsPerMinute": 134,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 57,
+  "_previewDuration": 10,
+  "_songFilename": "Tokyo Neo Swing1.egg",
+  "_coverImageFilename": "TNS.jpg",
+  "_environmentName": "FitBeatEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "MMA2": {
+        "version": "4.7.4"
+      },
+      "ChroMapper": {
+        "version": "0.8.441"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_envColorRightBoost": {
+              "r": 0.839,
+              "g": 0.414,
+              "b": 0
+            },
+            "_envColorLeftBoost": {
+              "r": 0.896,
+              "g": 0,
+              "b": 0.302
+            },
+            "_obstacleColor": {
+              "r": 0.519,
+              "g": 0.011,
+              "b": 0.367
+            },
+            "_envColorLeft": {
+              "r": 0.489,
+              "g": 0,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0.1,
+              "g": 0.539,
+              "b": 0.68
+            },
+            "_colorLeft": {
+              "r": 0.791,
+              "g": 0.371,
+              "b": 0.515
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_envColorRightBoost": {
+              "r": 0.839,
+              "g": 0.414,
+              "b": 0
+            },
+            "_envColorLeftBoost": {
+              "r": 0.896,
+              "g": 0,
+              "b": 0.302
+            },
+            "_obstacleColor": {
+              "r": 0.519,
+              "g": 0.011,
+              "b": 0.367
+            },
+            "_envColorLeft": {
+              "r": 0.489,
+              "g": 0,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0.1,
+              "g": 0.539,
+              "b": 0.68
+            },
+            "_colorLeft": {
+              "r": 0.791,
+              "g": 0.371,
+              "b": 0.515
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0.25,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_envColorRightBoost": {
+              "r": 0.839,
+              "g": 0.414,
+              "b": 0
+            },
+            "_envColorLeftBoost": {
+              "r": 0.896,
+              "g": 0,
+              "b": 0.302
+            },
+            "_obstacleColor": {
+              "r": 0.519,
+              "g": 0.011,
+              "b": 0.367
+            },
+            "_envColorLeft": {
+              "r": 0.489,
+              "g": 0,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0.1,
+              "g": 0.539,
+              "b": 0.68
+            },
+            "_colorLeft": {
+              "r": 0.791,
+              "g": 0.371,
+              "b": 0.515
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_envColorRightBoost": {
+              "r": 0.839,
+              "g": 0.414,
+              "b": 0
+            },
+            "_envColorLeftBoost": {
+              "r": 0.896,
+              "g": 0,
+              "b": 0.302
+            },
+            "_obstacleColor": {
+              "r": 0.519,
+              "g": 0.011,
+              "b": 0.367
+            },
+            "_envColorLeft": {
+              "r": 0.489,
+              "g": 0,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0.1,
+              "g": 0.539,
+              "b": 0.68
+            },
+            "_colorLeft": {
+              "r": 0.791,
+              "g": 0.371,
+              "b": 0.515
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.75,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_envColorRightBoost": {
+              "r": 0.839,
+              "g": 0.414,
+              "b": 0
+            },
+            "_envColorLeftBoost": {
+              "r": 0.896,
+              "g": 0,
+              "b": 0.302
+            },
+            "_obstacleColor": {
+              "r": 0.519,
+              "g": 0.011,
+              "b": 0.367
+            },
+            "_envColorLeft": {
+              "r": 0.489,
+              "g": 0,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0.1,
+              "g": 0.539,
+              "b": 0.68
+            },
+            "_colorLeft": {
+              "r": 0.791,
+              "g": 0.371,
+              "b": 0.515
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

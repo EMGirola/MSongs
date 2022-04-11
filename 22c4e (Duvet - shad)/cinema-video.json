@@ -1,0 +1,29 @@
+{
+  "videoID": "Fx2xS3SKAuk",
+  "title": "【Shiki Miyoshino / 美吉野しき】 Duvet - Bôa【Cover】",
+  "author": "Shiki Miyoshino / 美吉野しき [PRISM Project]",
+  "videoFile": "【Shiki Miyoshino _ 美吉野しき】 Duvet - Bôa【Cover】.mp4",
+  "duration": 203,
+  "offset": -260,
+  "configByMapper": true,
+  "screenCurvature" : 0,
+  "screenHeight": 6,
+  "environmentName": "BillieEnvironment",
+  "vignette": {
+    "type": "elliptical",
+    "radius": 0.9,
+    "softness": 1
+  },
+  "screenPosition": {"x": 0.0,"y": 4,"z": 25},
+  "environment" : [ 
+
+  {
+    "name" : "DayAndNight", 
+    "position" : {
+      "x" : 0,
+      "y" : 10,
+      "z" : 0
+    }
+  }
+  ]
+}

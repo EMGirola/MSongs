@@ -1,0 +1,182 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Joyride",
+  "_songSubName": "",
+  "_songAuthorName": "Roxette",
+  "_levelAuthorName": "Majorpickle",
+  "_beatsPerMinute": 102.367,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "KaleidoscopeEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "_lastEditedBy": "MMA2",
+      "MMA2": {
+        "version": "4.8.2"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRightBoost": {
+              "r": 0.8625224232673645,
+              "g": 0.022560451179742813,
+              "b": 0.16968250274658203
+            },
+            "_envColorLeftBoost": {
+              "r": 0.6044521331787109,
+              "g": 0.5593923926353455,
+              "b": 0.13121619820594788
+            },
+            "_obstacleColor": {
+              "r": 0.02370668202638626,
+              "g": 0.8468818664550781,
+              "b": 0.1406012773513794
+            },
+            "_envColorRight": {
+              "r": 0.26662111282348633,
+              "g": 0.5819599628448486,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.7501387000083923,
+              "g": 0.7529410123825073,
+              "b": 0.1067575141787529
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.34113171696662903,
+              "b": 0.9307135343551636
+            },
+            "_colorLeft": {
+              "r": 0.6429474353790283,
+              "g": 0.07861064374446869,
+              "b": 0
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRightBoost": {
+              "r": 0.8625224232673645,
+              "g": 0.022560451179742813,
+              "b": 0.16968250274658203
+            },
+            "_envColorLeftBoost": {
+              "r": 0.6044521331787109,
+              "g": 0.5593923926353455,
+              "b": 0.13121619820594788
+            },
+            "_obstacleColor": {
+              "r": 0.02370668202638626,
+              "g": 0.8468818664550781,
+              "b": 0.1406012773513794
+            },
+            "_envColorRight": {
+              "r": 0.26662111282348633,
+              "g": 0.5819599628448486,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.7501387000083923,
+              "g": 0.7529410123825073,
+              "b": 0.1067575141787529
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.34113171696662903,
+              "b": 0.9307135343551636
+            },
+            "_colorLeft": {
+              "r": 0.6429474353790283,
+              "g": 0.07861064374446869,
+              "b": 0
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRightBoost": {
+              "r": 0.8625224232673645,
+              "g": 0.022560451179742813,
+              "b": 0.16968250274658203
+            },
+            "_envColorLeftBoost": {
+              "r": 0.6044521331787109,
+              "g": 0.5593923926353455,
+              "b": 0.13121619820594788
+            },
+            "_obstacleColor": {
+              "r": 0.02370668202638626,
+              "g": 0.8468818664550781,
+              "b": 0.1406012773513794
+            },
+            "_envColorRight": {
+              "r": 0.26662111282348633,
+              "g": 0.5819599628448486,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.7501387000083923,
+              "g": 0.7529410123825073,
+              "b": 0.1067575141787529
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.34113171696662903,
+              "b": 0.9307135343551636
+            },
+            "_colorLeft": {
+              "r": 0.6429474353790283,
+              "g": 0.07861064374446869,
+              "b": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

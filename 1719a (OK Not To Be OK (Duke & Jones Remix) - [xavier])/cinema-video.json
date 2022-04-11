@@ -1,0 +1,15 @@
+{
+  "videoID": "aDBkbRmYFkI",
+  "title": "Marshmello & Demi Lovato - OK Not To Be OK (Duke & Jones Remix)",
+  "author": "Marshmello",
+  "videoFile": "Marshmello & Demi Lovato - OK Not To Be OK (Duke & Jones Remix).mp4",
+  "duration": 154,
+  "offset": -3320,
+  "configByMapper": true
+, "transparency": false
+, "vignette": {
+  "type": "elliptical",
+  "radius": 0.2,
+  "softness": 0.02
+}
+}

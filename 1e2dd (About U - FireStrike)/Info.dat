@@ -1,0 +1,143 @@
+{
+  "_version": "2.0.0",
+  "_songName": "About U",
+  "_songSubName": "",
+  "_songAuthorName": "Aiobahn & Vin",
+  "_levelAuthorName": "FireStrike",
+  "_beatsPerMinute": 126,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 46,
+  "_previewDuration": 20,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "MonstercatEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.8.452"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.063,
+              "g": 0.286,
+              "b": 0.396
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.565,
+              "b": 0.254
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.566,
+              "b": 0.945
+            },
+            "_colorRight": {
+              "r": 0.184,
+              "g": 0.847,
+              "b": 0.878
+            },
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.291,
+              "b": 0.912
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.063,
+              "g": 0.286,
+              "b": 0.396
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.566,
+              "b": 0.945
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.565,
+              "b": 0.254
+            },
+            "_colorRight": {
+              "r": 0.184,
+              "g": 0.847,
+              "b": 0.878
+            },
+            "_colorLeft": {
+              "r": 0.934,
+              "g": 0.176,
+              "b": 0.997
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0.3,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.566,
+              "b": 0.945
+            },
+            "_envColorRightBoost": {
+              "r": 1,
+              "g": 0.565,
+              "b": 0.254
+            },
+            "_obstacleColor": {
+              "r": 0.063,
+              "g": 0.286,
+              "b": 0.396
+            },
+            "_colorRight": {
+              "r": 0.184,
+              "g": 0.847,
+              "b": 0.878
+            },
+            "_colorLeft": {
+              "r": 0.934,
+              "g": 0.176,
+              "b": 0.997
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "_version": "2.0.0",
+  "_songName": "One Thing Right",
+  "_songSubName": "",
+  "_songAuthorName": "Marshmellow (Feat. Kane Brown)",
+  "_levelAuthorName": "[xavier",
+  "_beatsPerMinute": 176,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BTSEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.8.1"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "Cinema"
+            ],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.8230450749397278,
+              "g": 0.6990162134170532,
+              "b": 0.5122116804122925
+            },
+            "_colorRight": {
+              "r": 0.71009361743927,
+              "g": 0.7139365077018738,
+              "b": 0.6604230403900146
+            },
+            "_envColorLeft": {
+              "r": 0.8230450749397278,
+              "g": 0.6990162134170532,
+              "b": 0.5122116804122925
+            },
+            "_envColorRight": {
+              "r": 0.71009361743927,
+              "g": 0.7139365077018738,
+              "b": 0.6604230403900146
+            },
+            "_obstacleColor": {
+              "r": 0.8230450749397278,
+              "g": 0.6990162134170532,
+              "b": 0.5122116804122925
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

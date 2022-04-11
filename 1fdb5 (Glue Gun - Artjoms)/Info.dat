@@ -1,0 +1,197 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Glue Gun",
+  "_songSubName": "",
+  "_songAuthorName": "Fox Stevenson",
+  "_levelAuthorName": "Artjoms",
+  "_beatsPerMinute": 172,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 113.3,
+  "_previewDuration": 12.6,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "FitBeatEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper / Lighter",
+        "_name": "Artjoms",
+        "_iconPath": "artjoms_256.png"
+      },
+      {
+        "_role": "Environment enhancements",
+        "_name": "Fatalution",
+        "_iconPath": "fatal.png"
+      }
+    ],
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.8.458"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.561,
+              "g": 0.797,
+              "b": 0.9
+            },
+            "_colorRight": {
+              "r": 0.222,
+              "g": 0.554,
+              "b": 0.9
+            },
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": -1.25,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.561,
+              "g": 0.797,
+              "b": 0.9
+            },
+            "_colorRight": {
+              "r": 0.222,
+              "g": 0.554,
+              "b": 0.9
+            },
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0.375,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.561,
+              "g": 0.797,
+              "b": 0.9
+            },
+            "_colorRight": {
+              "r": 0.222,
+              "g": 0.554,
+              "b": 0.9
+            },
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.561,
+              "g": 0.797,
+              "b": 0.9
+            },
+            "_colorRight": {
+              "r": 0.222,
+              "g": 0.554,
+              "b": 0.9
+            },
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.561,
+              "g": 0.797,
+              "b": 0.9
+            },
+            "_colorRight": {
+              "r": 0.222,
+              "g": 0.554,
+              "b": 0.9
+            },
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusLightshow.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Lightshow",
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

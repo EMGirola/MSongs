@@ -1,0 +1,17 @@
+{
+  "videoID": "X-x7eZOdBFM",
+  "title": "Marshmello & Anne-Marie - FRIENDS [Alternative Music Video]",
+  "author": "Anne-Marie",
+  "videoFile": "Marshmello & Anne-Marie - FRIENDS [Alternative Music Video].mp4",
+  "duration": 207,
+  "offset": -3700,
+  "configByMapper": true
+, "transparency": false
+, "screenPosition": {"x": 0, "y": 11, "z": 76}
+, "screenHeight": 22.0
+, "vignette": {
+  "type": "elliptical",
+  "radius": 0.9,
+  "softness": 0.02
+}
+}
