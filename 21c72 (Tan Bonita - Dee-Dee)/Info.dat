@@ -1,0 +1,270 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Tan Bonita",
+  "_songSubName": "",
+  "_songAuthorName": "Piso 21",
+  "_levelAuthorName": "Dee-Dee",
+  "_beatsPerMinute": 111,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "MMA2": {
+        "version": "4.8.2"
+      },
+      "ChroMapper": {
+        "version": "0.8.454"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0.8,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.929,
+              "g": 1,
+              "b": 0.471
+            },
+            "_envColorRightBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorLeftBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorRight": {
+              "r": 0.582,
+              "g": 0.862,
+              "b": 0.198
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.617,
+              "b": 0.145
+            },
+            "_colorRight": {
+              "r": 0.016,
+              "g": 0.016,
+              "b": 0.707
+            },
+            "_colorLeft": {
+              "r": 0.699,
+              "g": 0,
+              "b": 0.094
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0.7,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.929,
+              "g": 1,
+              "b": 0.471
+            },
+            "_envColorRightBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorLeftBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorRight": {
+              "r": 0.582,
+              "g": 0.862,
+              "b": 0.198
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.617,
+              "b": 0.145
+            },
+            "_colorRight": {
+              "r": 0.016,
+              "g": 0.016,
+              "b": 0.707
+            },
+            "_colorLeft": {
+              "r": 0.699,
+              "g": 0,
+              "b": 0.094
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.4,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.929,
+              "g": 1,
+              "b": 0.471
+            },
+            "_envColorRightBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorLeftBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorRight": {
+              "r": 0.582,
+              "g": 0.862,
+              "b": 0.198
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.617,
+              "b": 0.145
+            },
+            "_colorRight": {
+              "r": 0.016,
+              "g": 0.016,
+              "b": 0.707
+            },
+            "_colorLeft": {
+              "r": 0.699,
+              "g": 0,
+              "b": 0.094
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.31,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.929,
+              "g": 1,
+              "b": 0.471
+            },
+            "_envColorRightBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorLeftBoost": {
+              "r": 0.011,
+              "g": 0.823,
+              "b": 0.66
+            },
+            "_envColorRight": {
+              "r": 0.582,
+              "g": 0.862,
+              "b": 0.198
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.617,
+              "b": 0.145
+            },
+            "_colorRight": {
+              "r": 0.016,
+              "g": 0.016,
+              "b": 0.707
+            },
+            "_colorLeft": {
+              "r": 0.699,
+              "g": 0,
+              "b": 0.094
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0.16,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_obstacleColor": {
+              "r": 0.929,
+              "g": 1,
+              "b": 0.471
+            },
+            "_envColorRightBoost": {
+              "r": 0.966,
+              "g": 0.701,
+              "b": 1
+            },
+            "_envColorLeftBoost": {
+              "r": 0.529,
+              "g": 0.961,
+              "b": 1
+            },
+            "_envColorRight": {
+              "r": 0.582,
+              "g": 0.862,
+              "b": 0.198
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 0.617,
+              "b": 0.145
+            },
+            "_colorRight": {
+              "r": 0.016,
+              "g": 0.016,
+              "b": 0.707
+            },
+            "_colorLeft": {
+              "r": 0.699,
+              "g": 0,
+              "b": 0.094
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
